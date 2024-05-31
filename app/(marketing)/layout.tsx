@@ -62,7 +62,7 @@ export default async function MarketingLayout({
                 "px-4"
               )}
             >
-              Oops!! Click here to go back to QuotesAI
+              Oops!! Click here to go back to Learnfast
             </Link> */}
           </main>
 

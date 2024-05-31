@@ -32,7 +32,7 @@ export function UserAuthForm({ className, ...props }: UserAuthFormProps) {
 
     try {
       // throw new Error()
-      await signIn('google')
+      await signIn('github')
     } catch(error) {
       toast({
       // Toast Notification
